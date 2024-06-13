@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Amazing sms otp send</string>
-    <string name="title_activity_permission">PermissionActivity</string>
-    <string name="title_activity_vsms">VsmsActivity</string>
-</resources>
