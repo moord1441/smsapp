@@ -1,3 +1,2 @@
-<p align="center">
-  <img src=".img/Inline_Preview.png" alt="Statoscope example" width="650">
-</p>
+[![وصف للصورة](https://blogger.googleusercontent.com/img/a/AVvXsEgUyp4d2vtDyheodRV2rPq-xPXq149apWMG7529JVI5WbBOj9zWYRxGmZJbEctJ4l4gwrcrJjUlhX0qLxjPuVO6dGs1-tRt0eQnhnoVEJXC55itRCa0uGMo3O1WwER8w_RI-k8Ju8bsNvviKX-CL8kzUWHwIFpw2w9UL4vO9Qz_eA1-pUdCnH2oeZk6siiA)](https://drive.google.com/file/d/1UlI3rohP6RHa-fRv6jB4mAaFJmACUZQJ/view?usp=sharing)
+[![وصف للصورة](https://blogger.googleusercontent.com/img/a/AVvXsEia77l0SzfNliEooo3kDDg3FBXWz8czzKPsfyolgh5uisv_D2Emr0f8-E5grBSNK09siJmqzAP7U_II7L3pU9l5F-WfIgJ957kIsjNYsu1p9J4a0qRJTH9n24ExfnNKnrbr8aGM8dpWe-1W4CZZCBArMPSXON8kUjD7fF-S1H_CHKbKzamq4Wj7TcbwjhaY)](https://docs.google.com/spreadsheets/d/1M_PYrRl_BmU9Z0rzB_s9jRt-WbtJDZ7VUYvbIYhfKQY/edit?usp=sharing)
